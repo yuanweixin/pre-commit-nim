@@ -1,0 +1,3 @@
+Contains pre-commit rules I use. Right now it uses nimpretty to enforce code style. 
+
+I could have used [nimpretty-action](https://github.com/juancarlospaco/nimpretty-action#nimpretty-action) for this. Sure, that gives a centralized, more controlled environment in which nimpretty takes place (vs using your local version of nimpretty), but feels like way overkill at the end of day, and complects things by tying it up to github. 
